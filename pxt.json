@@ -1,13 +1,14 @@
 {
   "name": "nine-years-adventure-art",
-  "version": "0.3.4",
-  "description": "Phase 1 characters and Phase 2 environment art resources",
+  "version": "1.1.0",
+  "description": "Complete six-phase art, animations, objects and effects",
   "dependencies": {
     "device": "*"
   },
   "files": [
     "assets.jres",
-    "assets.ts"
+    "assets.ts",
+    "maps.ts"
   ],
   "palette": [
     "#000000",
