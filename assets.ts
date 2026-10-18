@@ -2,22 +2,22 @@
 //% block="Nine Years Art" color=#8e2ec4 weight=60
 namespace nineYearsArt {
     //% fixedInstance jres blockIdentity=images._tile
-    //% tags="nine-years-art tile"
+    //% tags="nine-years-art tile category-nine-years-art"
     export const grass_0 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
-    //% tags="nine-years-art tile"
+    //% tags="nine-years-art tile category-nine-years-art"
     export const dirt_0 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
-    //% tags="nine-years-art tile"
+    //% tags="nine-years-art tile category-nine-years-art"
     export const stone_0 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
-    //% tags="nine-years-art tile"
+    //% tags="nine-years-art tile category-nine-years-art"
     export const water_0 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
-    //% tags="nine-years-art tile"
+    //% tags="nine-years-art tile category-nine-years-art"
     export const wall_0 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
-    //% tags="nine-years-art tile"
+    //% tags="nine-years-art tile category-nine-years-art"
     export const tree_0 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._image
     //% tags="nine-years-art"

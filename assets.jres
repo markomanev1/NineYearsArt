@@ -10,7 +10,8 @@
     "tilemapTile": true,
     "tags": [
       "nine-years-art",
-      "tile"
+      "tile",
+      "category-nine-years-art"
     ]
   },
   "dirt_0": {
@@ -19,7 +20,8 @@
     "tilemapTile": true,
     "tags": [
       "nine-years-art",
-      "tile"
+      "tile",
+      "category-nine-years-art"
     ]
   },
   "stone_0": {
@@ -28,7 +30,8 @@
     "tilemapTile": true,
     "tags": [
       "nine-years-art",
-      "tile"
+      "tile",
+      "category-nine-years-art"
     ]
   },
   "water_0": {
@@ -37,7 +40,8 @@
     "tilemapTile": true,
     "tags": [
       "nine-years-art",
-      "tile"
+      "tile",
+      "category-nine-years-art"
     ]
   },
   "wall_0": {
@@ -46,7 +50,8 @@
     "tilemapTile": true,
     "tags": [
       "nine-years-art",
-      "tile"
+      "tile",
+      "category-nine-years-art"
     ]
   },
   "tree_0": {
@@ -55,7 +60,8 @@
     "tilemapTile": true,
     "tags": [
       "nine-years-art",
-      "tile"
+      "tile",
+      "category-nine-years-art"
     ]
   },
   "treasure_chest_0": {
