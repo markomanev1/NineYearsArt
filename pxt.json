@@ -1,0 +1,16 @@
+{
+  "name": "nine-years-adventure-art",
+  "version": "0.1.0",
+  "description": "Phase 1 pixel art and animation resources only",
+  "dependencies": {
+    "device": "*"
+  },
+  "files": [
+    "assets.jres",
+    "assets.ts"
+  ],
+  "supportedTargets": [
+    "arcade"
+  ],
+  "preferredEditor": "tsprj"
+}
