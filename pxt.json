@@ -1,13 +1,31 @@
 {
   "name": "nine-years-adventure-art",
-  "version": "0.1.0",
-  "description": "Phase 1 pixel art and animation resources only",
+  "version": "0.3.2",
+  "description": "Phase 1 characters and Phase 2 environment art resources",
   "dependencies": {
     "device": "*"
   },
   "files": [
     "assets.jres",
     "assets.ts"
+  ],
+  "palette": [
+    "#000000",
+    "#f0eed8",
+    "#cd4152",
+    "#de6a62",
+    "#de9473",
+    "#d6bc62",
+    "#398b31",
+    "#83c562",
+    "#4a73ac",
+    "#73bdf6",
+    "#82739c",
+    "#83838b",
+    "#414a6a",
+    "#d6c59c",
+    "#8b6b49",
+    "#182952"
   ],
   "supportedTargets": [
     "arcade"
