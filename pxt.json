@@ -1,6 +1,6 @@
 {
   "name": "nine-years-adventure-art",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "description": "Phase 1 characters and Phase 2 environment art resources",
   "dependencies": {
     "device": "*"
@@ -11,20 +11,20 @@
   ],
   "palette": [
     "#000000",
-    "#f0eed8",
-    "#cd4152",
-    "#de6a62",
-    "#de9473",
-    "#d6bc62",
-    "#398b31",
-    "#83c562",
-    "#4a73ac",
-    "#73bdf6",
-    "#82739c",
-    "#83838b",
-    "#414a6a",
-    "#d6c59c",
-    "#8b6b49",
+    "#fff1d6",
+    "#df4258",
+    "#ed7a78",
+    "#efa776",
+    "#e8c65a",
+    "#329341",
+    "#8bcf5b",
+    "#4085bd",
+    "#80cdf4",
+    "#9679b4",
+    "#90969b",
+    "#46556e",
+    "#e3ca91",
+    "#a17b46",
     "#182952"
   ],
   "supportedTargets": [
